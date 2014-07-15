@@ -1,4 +1,12 @@
-#HTML5 minimal template for eMarketeer Australia
-Assuming you will be using jQuery, SASS with responsive designs.
+#A very minimal, speed oriented HTML5 web app backbone we use in house.
+Designed for use with jQuery, SCSS, Node/Grunt for building responsive sites from the ground up.
 
-##Use sass.sh via terminal for sass auto watch and compression.
+##How the hell do I use this thing?
+Simply
+* Git clone this repo
+* cd /path/to/new/repository
+* npm install
+* sh sass.sh &> /dev/null
+* grunt watch
+
+###That's destructive.
