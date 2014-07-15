@@ -6,7 +6,7 @@ Simply
 * Git clone this repo
 * cd /path/to/new/repository
 * npm install
-* sh sass.sh &> /dev/null
+* sh sass.sh &> /dev/null &
 * grunt watch
 
 ###That's destructive.
