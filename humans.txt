@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    eMarketeer Australia - Web Development Team - @emarketeercomau
+
+# THANKS
+
+    W3C, SASS, jQuery
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, SASS
+    Normalize.css, jQuery, HTML5shiv.js

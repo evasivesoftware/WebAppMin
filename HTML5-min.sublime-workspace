@@ -1,0 +1,590 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parent",
+				"parentID"
+			],
+			[
+				"full",
+				"full_size"
+			],
+			[
+				"thumb",
+				"thumb_size"
+			],
+			[
+				"trif",
+				"trifusion-settings-group"
+			],
+			[
+				"par",
+				"parentPadding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"en",
+				"enquire_phone"
+			],
+			[
+				"enqui",
+				"enquire_checkin"
+			],
+			[
+				"adminView",
+				"adminViewExists"
+			],
+			[
+				"check",
+				"checkController"
+			],
+			[
+				"request",
+				"requestUrl"
+			],
+			[
+				"return",
+				"return_buffer"
+			],
+			[
+				"retu",
+				"return_buffer"
+			],
+			[
+				"callB",
+				"callBackCancel"
+			],
+			[
+				"move",
+				"moveSpeed"
+			],
+			[
+				"game",
+				"gameEngine"
+			],
+			[
+				"input",
+				"inputManager"
+			],
+			[
+				"in",
+				"inputManager"
+			],
+			[
+				"ob",
+				"objectId"
+			],
+			[
+				"objec",
+				"objectManager"
+			],
+			[
+				"object",
+				"objectManager"
+			],
+			[
+				"screen_lock",
+				"screen_lock_cancel"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/src/dev.js",
+			"settings":
+			{
+				"buffer_size": 215,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scss/dev.scss",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dampe/git/HTML5-min/humans.txt",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/header.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/footer.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/assets/js/menu.js",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/single.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/archive.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/lib/menus.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/assets/scss/meta.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/template-contact.php",
+		"/home/dampe/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/lib/shortcodes.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/lib/gallery.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/assets/scss/jquery.fancybox.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/lib/settings.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/functions.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/assets/scss/global.min.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/assets/scss/wordpress.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/template-home.php",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.1-wp/wp-content/themes/trifusion/lib/functions.php",
+		"/home/dampe/public_html/sbs/css/sbr-marc.css",
+		"/home/dampe/public_html/sbs/src/sbr-marc.html",
+		"/home/dampe/public_html/sbs/src/sbr-emily.html",
+		"/home/dampe/public_html/sbs/css/sbr-emily.css",
+		"/home/dampe/public_html/sbs/src/emily.html",
+		"/home/dampe/public_html/sbs/css/emily.css",
+		"/home/dampe/public_html/sbs/package.json",
+		"/home/dampe/public_html/sbs/Gruntfile.js",
+		"/home/dampe/public_html/www.cowes.info/v1.1-wp/wp-content/themes/cowes/archive-properties.php",
+		"/home/dampe/public_html/www.cowes.info/v1.1-wp/wp-content/themes/cowes/lib/custom-post-types.php",
+		"/home/dampe/public_html/www.cowes.info/v1.1-wp/wp-content/themes/cowes/assets/scss/global.min.scss",
+		"/home/dampe/public_html/www.cowes.info/v1.1-wp/wp-content/themes/cowes/assets/scss/animate.scss",
+		"/home/dampe/public_html/www.cowes.info/v1.1-wp/wp-content/themes/cowes/style.css",
+		"/home/dampe/evasive/evasivecms/core/assets/src/scss/admin.min.scss",
+		"/home/dampe/evasive/evasivecms/core/assets/src/scss/normalize.scss",
+		"/home/dampe/evasive/evasivecms/core/assets/src/scss/fonts.scss",
+		"/home/dampe/evasive/evasivecms/core/controller/view.php",
+		"/home/dampe/evasive/evasivecms/core/library/request.php",
+		"/home/dampe/evasive/evasivecms/core/library/route.php",
+		"/home/dampe/evasive/evasivecms/core/autoload.php",
+		"/home/dampe/evasive/evasivecms/.htaccess",
+		"/home/dampe/evasive/evasivecms/core/config.php",
+		"/home/dampe/evasive/evasivecms/index.php",
+		"/home/dampe/evasive/evasivecms/core/bootstrap.php",
+		"/home/dampe/evasive/evasivecms/core/view/dashboard.haml",
+		"/home/dampe/evasive/evasivecms/index.html",
+		"/home/dampe/evasive/evasivecms/sass.sh",
+		"/home/dampe/evasive/evasivecms/package.json",
+		"/home/dampe/evasive/evasivecms/Gruntfile.js",
+		"/home/dampe/Games/jellyfeet/game/jellyfeet.js",
+		"/home/dampe/Node/RetroTime/package.json",
+		"/home/dampe/Node/RetroTime/node_modules/node-torrent/lib/torrent.js",
+		"/home/dampe/Node/RetroTime/node.js",
+		"/home/dampe/Node/RetroTime/node_modules/node-torrent/lib/client.js",
+		"/home/dampe/Node/RetroTime/node_modules/node-torrent/lib/file.js",
+		"/home/dampe/Node/webkit/app/assets/src/scss/style.scss",
+		"/home/dampe/Node/webkit/package.json",
+		"/home/dampe/Node/webkit/app/index.html",
+		"/home/dampe/Node/webkit/app/Gruntfile.js",
+		"/home/dampe/Node/webkit/app/assets/src/js/app.js",
+		"/home/dampe/Node/webkit/app/main.js",
+		"/home/dampe/Node/webkit/main.js",
+		"/home/dampe/Node/webkit/app/package.json",
+		"/home/dampe/Node/webkit/app/sass.sh",
+		"/home/dampe/Node/webkit/app/assets/src/scss/bootstrap-theme.scss",
+		"/home/dampe/Node/webkit/app/assets/build/js/bootstrap.min.js",
+		"/home/dampe/git/PrettyPress/bootstrap.php",
+		"/home/dampe/git/PrettyPress/assets/js/prettypress.js",
+		"/home/dampe/git/PrettyPress/gruntfile.js",
+		"/home/dampe/git/PrettyPress/view/edit.php",
+		"/home/dampe/git/PrettyPress/package.json",
+		"/home/dampe/git/PrettyPress/lib/hooks.php",
+		"/home/dampe/git/PrettyPress/readme.txt",
+		"/home/dampe/git/PrettyPress/.gitignore",
+		"/home/dampe/git/PrettyPress/assets/js/prettypress_bootloader.js",
+		"/home/dampe/git/PrettyPress/assets/js/prettypress_hooks.js",
+		"/home/dampe/git/PrettyPress/assets/js/prettypress_markdown.js",
+		"/home/dampe/git/PrettyPress/assets/js/prettypress_resize.js",
+		"/home/dampe/git/PrettyPress/prettypress.php",
+		"/home/dampe/Games/jellyfeet/assets/scss/style.scss",
+		"/home/dampe/Games/jellyfeet/jellyfeet.html",
+		"/home/dampe/Documents/Vault/mjharrispainting.txt",
+		"/home/dampe/Desktop/M7Q]3O!nwF?k",
+		"/home/dampe/Desktop/mankey.txt",
+		"/home/dampe/Desktop/mjharrispainting.txt",
+		"/home/dampe/Desktop/todo.tdt",
+		"/etc/apache2/sites-available/ziggy.conf",
+		"/home/dampe/Games/jellyfeet/game/fullscreen.js",
+		"/home/dampe/Games/jellyfeet/package.json",
+		"/home/dampe/Games/jellyfeet/Gruntfile.js",
+		"/home/dampe/Games/jellyfeet/build/jellyfeet.min.js",
+		"/home/dampe/Desktop/To do.txt",
+		"/home/dampe/public_html/cdn.webster.com.au/scss/wasp.min.scss",
+		"/home/dampe/Desktop/humphris.txt",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/index.html",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/cols.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/mobile.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/tablet.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/meta.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/style.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/global.min.scss",
+		"/home/dampe/public_html/www.trifusion.com.au/v2.0-h/assets/scss/video-js.scss",
+		"/home/dampe/public_html/www.bestaustraliantravel.com/v0.1-h/assets/scss/style.scss",
+		"/home/dampe/Desktop/todo.txt",
+		"/home/dampe/Desktop/software.txt",
+		"/home/dampe/public_html/www.bestaustraliantravel.com/v1.0-wp/wp-config.php",
+		"/home/dampe/public_html/wp/wp-content/themes/twentyfourteen/functions.php",
+		"/home/dampe/Desktop/ship/bat.sql",
+		"/home/dampe/Desktop/breshi.txt",
+		"/home/dampe/public_html/www.bestaustraliantravel.com/v0.1-h/index.html",
+		"/home/dampe/Desktop/johnsimpson.txt",
+		"/home/dampe/Desktop/sus.txt",
+		"/home/dampe/Desktop/smartwebhosting.com.au",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/assets/scss/style.scss",
+		"/home/dampe/Desktop/access_log.txt",
+		"/home/dampe/public_html/www.jmaxengineering.com.au/v0.2-h/post.php",
+		"/home/dampe/public_html/wp/wp-content/plugins/ad.php",
+		"/home/dampe/Desktop/node.js",
+		"/home/dampe/public_html/type/index.html",
+		"/home/dampe/public_html/type/assets/scss/style.scss",
+		"/home/dampe/Desktop/tmp/wow-install-eu.sh",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/assets/js/vendor/responsiveslides.min.js",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/assets/scss/slider.scss",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/assets/scss/global.min.scss",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/footer.php",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/assets/scss/wp.scss",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/archive.php",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/single.php",
+		"/home/dampe/public_html/www.advantageplanning.com.au/wp-content/themes/ap/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url('",
+			"h1\n\nh1\nh1",
+			"h1",
+			"baw",
+			"background: red;",
+			"'",
+			".object\n\ncollision",
+			"coll\n\ncolli",
+			"coll\n\ncollis",
+			"gameObjects.",
+			"object",
+			"iframe",
+			"custom Retreat Date",
+			":hover",
+			"	    \n",
+			"h3",
+			"31f257",
+			"117a65",
+			"font/v",
+			"live-display",
+			"font",
+			"font-fami\nfont-family",
+			"font-fami\n",
+			"images/video/",
+			"play",
+			"font/",
+			"bestaustra",
+			"http://localhost/www.bestaustraliantravel.com/v1.0-wp",
+			"http://www.advantageplanning.com.au",
+			"url('",
+			"height\n\n\n\nheight",
+			"height\n\n\n\n",
+			"gedit.desktop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url('../img/fancybox/",
+			"trifusion",
+			"",
+			"\"",
+			"34f05b",
+			"31f257",
+			"../fonts/v",
+			"img/",
+			"../fonts/",
+			"http://www.bestaustraliantravel.com",
+			"http://dev.emarketeer.com.au/www.advantageplanning.com.au",
+			"url('../img/fancybox/",
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/js/src/dev.js",
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/scss/dev.scss",
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true
+}

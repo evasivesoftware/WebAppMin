@@ -1,0 +1,6 @@
+/* Tabletsized stylesheets. Call this after desktop and tablet. */
+@media only screen and (max-width: 1000px) {
+	body {
+		margin: 0;
+	}
+}
