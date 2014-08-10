@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>App</title>
+	<title>WebAppMin</title>
 	<meta name="description" content="A web app!">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--Dev only-->
@@ -12,6 +12,10 @@
 	<link rel="stylesheet" href="assets/css/legacy.css">
 	<script src="assets/js/vendor/html5shiv-respond.min.js"></script>
 	<![endif]-->
+	<style>
+		/* Critical / above the fold CSS in here. */
+		/* The rest will be auto queued with async */
+	</style>
 </head>
 <body>
 
@@ -19,17 +23,22 @@
 	<!-- Production tags -->
 	<script>
 		/* Async load global stylesheet.
-		 * This should help with page load speed */
-		var stylesheet = document.createElement('link');
-		stylesheet.href = 'assets/css/global.min.css';
-		stylesheet.rel = 'stylesheet';
-		document.getElementsByTagName('head')[0].appendChild(stylesheet);
+		* This should help with page load speed */
+		var cb = function() {
+			var l = document.createElement('link'); l.rel = 'stylesheet';
+			l.href = 'assets/css/global.min.css';
+			var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
 	</script>
 	<script async src="assets/js/app.min.js"></script>
 	<!-- End production tags -->
 
 	<!-- Dev only -->
 	<script src="assets/js/vendor/livejs.min.js"></script>
-	<script src="assets/js/dev.min.js"></script>
+	<script src="assets/js/build/dev.min.js"></script>
+	<!-- End dev only -->
 </body>
 </html>
