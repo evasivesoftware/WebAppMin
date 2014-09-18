@@ -16,7 +16,7 @@ module.exports = function (grunt) {
 	        separator: ';'
 	      },
 	      dist: {
-	        src: ['assets/js/vendor/jquery-1.11.0.min.js', 'assets/js/build/app.min.js'],
+	        src: ['assets/js/vendor/jquery-1.11.1.min.js', 'assets/js/build/app.min.js'],
 	        dest: 'assets/js/app.min.js'
 	      },
 
